@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fqr26
+- 👋 Hi, I’m @Fqr_26
 - 👀 I’m interested in solving problems in multi-diverse programs.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on coding, database and networking.
